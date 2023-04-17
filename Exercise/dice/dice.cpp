@@ -1,3 +1,5 @@
+// 20223092 서동현
+
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
